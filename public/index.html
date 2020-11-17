@@ -1,0 +1,211 @@
+<!doctype html>
+<html lang="en" xmlns:mso="urn:schemas-microsoft-com:office:office"
+  xmlns:msdt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882">
+
+<head>
+  <title>Home</title>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.1/css/all.css"
+    integrity="sha384-O8whS3fhG2OnA5Kas0Y9l3cfpmYjapjI0E4theH4iuMD+pLhbf6JI0jIMfYcK3yZ" crossorigin="anonymous">
+
+  <!--[if gte mso 9]><xml>
+<mso:CustomDocumentProperties>
+<mso:display_urn_x003a_schemas-microsoft-com_x003a_office_x003a_office_x0023_Editor msdt:dt="string">GONZALEZ OCEGUERA, OSCAR JOSE</mso:display_urn_x003a_schemas-microsoft-com_x003a_office_x003a_office_x0023_Editor>
+<mso:xd_Signature msdt:dt="string"></mso:xd_Signature>
+<mso:TemplateUrl msdt:dt="string"></mso:TemplateUrl>
+<mso:Order msdt:dt="string">911500.000000000</mso:Order>
+<mso:ComplianceAssetId msdt:dt="string"></mso:ComplianceAssetId>
+<mso:display_urn_x003a_schemas-microsoft-com_x003a_office_x003a_office_x0023_Author msdt:dt="string">GUTIERREZ PRECIADO, LUIS FERNANDO</mso:display_urn_x003a_schemas-microsoft-com_x003a_office_x003a_office_x0023_Author>
+<mso:xd_ProgID msdt:dt="string"></mso:xd_ProgID>
+<mso:ContentTypeId msdt:dt="string">0x0101009AF89F552A2F4149A5B5EC1687935FB5</mso:ContentTypeId>
+<mso:_SourceUrl msdt:dt="string"></mso:_SourceUrl>
+<mso:_SharedFileIndex msdt:dt="string"></mso:_SharedFileIndex>
+</mso:CustomDocumentProperties>
+</xml><![endif]-->
+
+<style>
+  input:invalid{
+    border-color: red;
+  }
+</style>
+</head>
+
+<body>
+  <nav class="navbar navbar-expand navbar-dark bg-dark">
+    <div class="nav navbar-nav">
+      <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
+      <a class="nav-item nav-link" href="#" data-toggle="modal" data-target="#registro">Registrarse</a>
+      <a class="nav-item nav-link" href="#" data-toggle="modal" data-target="#modelId">Login</a>
+      <a class="nav-item nav-link" href="consulta.html">Administración de usuarios</a>
+    </div>
+  </nav>
+
+  <div class="jumbotron">
+    <h1 class="display-3">LOL CHAMPS</h1>
+    <p class="lead">Crear una interface web para registro de usuarios</p>
+    <hr class="my-2">
+    <ul>
+      <li>Login</li>
+      <li>Registro</li>
+      <li>Consultas</li>
+    </ul>
+    <p class="lead">
+      <a class="btn btn-primary btn-lg" href="#" role="button">Ir a consultas</a>
+    </p>
+  </div>
+
+  <!-- Modal -->
+  <div class="modal fade" id="modelId" tabindex="-1" role="dialog" aria-labelledby="modelTitleId" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title">Login</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+
+        <div class="modal-body">
+          <div class="container-fluid">
+            <div class="form-group">
+              <label for="">Correo</label>
+              <div class="input-group mb-3">
+                <div class="input-group-prepend">
+                  <span class="input-group-text" id="basic-addon1"><i class="fas fa-user    "></i></span>
+                </div>
+                <input type="text" class="col-10 form-control" name="" id="userInputLogin" aria-describedby="helpId"
+                  placeholder="correo registrado" required>
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="password">Password</label>
+              <div class="input-group mb-3">
+                <div class="input-group-prepend">
+                  <span class="input-group-text" id="basic-addon1"><i class="fas fa-key    "></i></span>
+                </div>
+                <input type="password" class="col-10 form-control" name="" id="passwordInputLogin"
+                  aria-describedby="helpId" placeholder="correo registrado" required>
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="password">Respuesta:</label>
+              <div class="input-group mb-3">
+                <div class="input-group-prepend" id="loginResponseMSG">
+                </div>
+                
+              </div>
+            </div>
+            <div class="form-group">
+              <div class="controls">
+                <button id="loginBtn" type="button" class="btn btn-success" >Login</button>
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+              </div>
+            </div>
+            <div class="form-group">
+              <div class="col-md-12 control">
+                <div style="border-top: 1px solid#888; padding-top:15px; font-size:85%">
+                  No tienes cuenta!
+                  <a href="#" data-dismiss="modal" data-toggle="modal" data-target="#registro">
+                    Registrate aquí
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Button trigger modal -->
+  <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#createFormModal">
+    Registrar usuario
+  </button>
+
+  <!-- Modal -->
+  <div class="modal fade" id="createFormModal" tabindex="-1" role="dialog" aria-labelledby="createFormModal" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="createFormModal">Modal title</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          
+            <form method="POST" id="createUserForm">
+                <div class="row">
+                  <div class="col-6">
+                    <input type="text" name="nombre" id="" class="form-control" placeholder="Nombre o nombres"
+                      aria-describedby="helpId" required>
+                  </div>
+                  <div class="col-6">
+                    <input type="text" name="apellidos" id="" class="form-control" placeholder="Apellidos" aria-describedby="helpId"
+                      required>
+                  </div>
+                </div>
+                <input type="email" name="email" id="" class="form-control mt-3" placeholder="Correo"
+                  aria-describedby="helpId" required>
+                <input type="password" name="password1" id="password1" class="form-control mt-3" placeholder="Contraseña"
+                  aria-describedby="helpId" required>
+                <input type="password" name="password2" id="password2" class="form-control mt-3" placeholder="Confirmar contraseña"
+                  aria-describedby="helpId" required>
+                <input type="date" class="form-control mt-3" value="2000-01-01" name="fecha" id="">
+    
+                <div class="radioB mt-3 border">
+                  <div class="form-check">
+                      <label class="form-check-label ml-3">
+                          <input type="radio" class="form-check-input sexoF" name="sexo" id="" value="M"
+                              checked>
+                          Mujer
+                      </label>
+                  </div>
+                  <div class="form-check">
+                      <label class="form-check-label ml-3">
+                          <input type="radio" class="form-check-input sexoM" name="sexo" id="" value="H">
+                          Hombre
+                      </label>
+                  </div>
+              </div>
+                <input type="url" name="image" id="" class="form-control mt-3" placeholder="Url de imagen de perfil"
+                  aria-describedby="helpId">
+    
+                  <div id="responseMSG"></div>
+    
+                  <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal" >Close</button>
+                    <button type="button" id="createUserBtn" class="btn btn-success "onclick="cerrarB()" disabled>Guardar</button>
+                    <br>
+                  </div>
+              </form>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+  <!-- Optional JavaScript -->
+  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
+  </script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+    integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous">
+  </script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+    integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
+  </script>
+  <script src="js/index.js"></script>
+</body>
+
+</html>

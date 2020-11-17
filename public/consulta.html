@@ -1,0 +1,206 @@
+<!doctype html>
+<html lang="en" xmlns:mso="urn:schemas-microsoft-com:office:office" xmlns:msdt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882">
+
+<head>
+    <title>Title</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+   
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.1/css/all.css" integrity="sha384-O8whS3fhG2OnA5Kas0Y9l3cfpmYjapjI0E4theH4iuMD+pLhbf6JI0jIMfYcK3yZ" crossorigin="anonymous">
+   
+    <style>
+            .media{
+                border:1px solid #d5dbdd;
+                 padding:5px 20px; 
+                 border-radius: 5px; 
+                 box-shadow:0px 2px 1px rgba(0,0,0,0.04); 
+                 background:#fff;}
+        </style>
+
+
+<!--[if gte mso 9]><xml>
+<mso:CustomDocumentProperties>
+<mso:display_urn_x003a_schemas-microsoft-com_x003a_office_x003a_office_x0023_Editor msdt:dt="string">GUTIERREZ PRECIADO, LUIS FERNANDO</mso:display_urn_x003a_schemas-microsoft-com_x003a_office_x003a_office_x0023_Editor>
+<mso:xd_Signature msdt:dt="string"></mso:xd_Signature>
+<mso:TemplateUrl msdt:dt="string"></mso:TemplateUrl>
+<mso:Order msdt:dt="string">911400.000000000</mso:Order>
+<mso:ComplianceAssetId msdt:dt="string"></mso:ComplianceAssetId>
+<mso:display_urn_x003a_schemas-microsoft-com_x003a_office_x003a_office_x0023_Author msdt:dt="string">GUTIERREZ PRECIADO, LUIS FERNANDO</mso:display_urn_x003a_schemas-microsoft-com_x003a_office_x003a_office_x0023_Author>
+<mso:xd_ProgID msdt:dt="string"></mso:xd_ProgID>
+<mso:ContentTypeId msdt:dt="string">0x0101009AF89F552A2F4149A5B5EC1687935FB5</mso:ContentTypeId>
+<mso:_SourceUrl msdt:dt="string"></mso:_SourceUrl>
+<mso:_SharedFileIndex msdt:dt="string"></mso:_SharedFileIndex>
+</mso:CustomDocumentProperties>
+</xml><![endif]-->
+</head>
+
+<body>
+
+    <nav class="navbar navbar-expand navbar-dark bg-dark">
+            <div class="nav navbar-nav">
+                <a class="nav-item nav-link active" href="index.html">Home <span class="sr-only">(current)</span></a>
+                <a class="nav-item nav-link" href="index.html" >Registrarse</a>
+                <a class="nav-item nav-link" href="index.html" >Login</a>
+                <a class="nav-item nav-link" href="#">Administración de usuarios</a>
+            </div>
+    </nav>
+    
+
+
+    <div class="container">
+
+        <div class="row mt-3">
+            <div class="col-6">
+                <div class="form-group">
+                    <input type="text" name="" id="filterInput" class="form-control" placeholder="nombre de usuario a buscar"
+                        aria-describedby="helpId">
+                    <small id="helpId" class="text-muted">Buscar usuario</small>
+                </div>
+            </div>
+            <div class="col-4">
+            </div>
+        </div>
+    
+        
+    
+        <div class="row  mt-4" id="lista">
+            <div class="media col-8 mt-2" id="modelo">
+                <div class="media-left align-self-center mr-3">
+                    <img class="rounded-circle" style="width: inherit;" src="https://randomuser.me/api/portraits/men/0.jpg">
+                </div>
+                <div class="media-body">
+                    <h4>John Doe</h4>
+                    <p >Correo: jdoe@test.com</p>
+                    <p >Fecha de nacimiento: 01-01-2001 </p>
+                    <p >Sexo: Hombre </p>
+                </div>
+                <div class="media-right align-self-center">
+                    <div class="row">
+                        <a href="#" class="btn btn-primary edit"><i class="fas fa-search edit  "></i></a>
+                    </div>
+                    <div class="row">
+                        <a href="#" class="btn btn-primary mt-2"><i class="fas fa-pencil-alt edit  "></i></a>
+                    </div>
+                    <div class="row">
+                        <a href="#" class="btn btn-primary mt-2"><i class="fas fa-trash-alt  remove "></i></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="media col-8 mt-2">
+                <div class="media-left align-self-center mr-3">
+                    <img class="rounded-circle" src="https://randomuser.me/api/portraits/women/0.jpg">
+                </div>
+                <div class="media-body">
+                        <h4> Mary Rosemore</h4>
+                        <p >Correo: mary@test.com</p>
+                        <p >Fecha de nacimiento: 01-01-2001 </p>
+                        <p >Sexo: Mujer </p>
+                    </div>
+                <div class="media-right align-self-center">
+                    <div class="row">
+                        <div class="btn btn-primary "><i class="fas fa-pencil-alt edit"></i></div>
+                    </div>
+                    <div class="row">
+                        <div class="btn btn-primary mt-2"><i class="fas fa-trash-alt remove "></i></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+        <nav class="row mt-3 " aria-label="Page navigation" >
+                <ul class="pagination" id="pagesList">
+                  <li class="page-item" ><a id="btn_prev" class="page-link" href="#">Previous</a></li>
+                  
+                  <li class="page-item active "><a class="page-link  " href="#">1</a></li>
+                  <li class="page-item"><a class="page-link" href="#">2</a></li>
+                  <li class="page-item"><a class="page-link" href="#">3</a></li>
+                  <li class="page-item"><a id="btn_next" class="page-link" href="#">Next</a></li>
+                </ul>
+        </nav>
+
+    </div>
+  
+  <!-- Modal -->
+  <div class="modal fade" id="deleteFormModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">Eleminar usuario</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h3 class=text-danger>¿Esta seguro?</h3>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+          <button type="button" id="deletebtn" class="btn btn-danger" data-dismiss="modal" >Delete user</button>
+        </div>
+      </div>
+    </div>
+  </div>
+   
+  <!-- Modal -->
+  <div class="modal fade" id="updateFormModal" tabindex="-1" role="dialog" aria-labelledby="updateFormModal" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="updateFormModal">Editar usuario</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          
+            <form action="">
+                <div class="row">
+                  <div class="col-6">
+                    <input type="text" name="nombre" id="" class="form-control" placeholder="Nombre o nombres"
+                      aria-describedby="helpId" required>
+                  </div>
+                  <div class="col-6">
+                    <input type="text" name="apellidos" id="" class="form-control" placeholder="Apellidos" aria-describedby="helpId"
+                      required>
+                  </div>
+                </div>
+                <input type="password" name="password1" id="" class="form-control mt-3" placeholder="Contraseña"
+                  aria-describedby="helpId" required>
+                <input type="password" name="password2" id="" class="form-control mt-3" placeholder="Confirmar contraseña"
+                  aria-describedby="helpId" required>
+                <input type="date" class="form-control mt-3" placeholder="YYYY-MM-DD" name="fecha" id="">
+    
+                <input type="url" name="image" id="" class="form-control mt-3" placeholder="Url de imagen de perfil"
+                  aria-describedby="helpId">
+    
+    
+              </form>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+          <button type="button" id="Actbtn" class="btn btn-success" data-dismiss="modal" >Actualizar</button>
+        </div>
+      </div>
+    </div>
+  </div>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous">
+    </script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
+    </script>
+    <script src="js/consulta.js"></script>
+</body>
+
+</html>

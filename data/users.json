@@ -1,0 +1,11 @@
+[{
+    "nombre": "John",
+    "apellidos": "Doe",
+    "email": "john@gmail.com",
+    "password": "doej",
+    "fecha": "2000-10-28",
+    "sexo": "H",
+    "uid": 10001,
+    "image": "https://randomuser.me/api/portraits/men/0.jpg",
+    "token": "1tscEGvqzK-10001"
+}]
