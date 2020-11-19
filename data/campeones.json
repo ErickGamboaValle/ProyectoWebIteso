@@ -1,8 +1,1065 @@
 [{
+        "Campeon": "Aatrox",
+        "Rol": "Top",
+        "Counters":"Singed",
+        "EasyMatchup":"Ryze",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aatrox.jpg",
+        "id":"1"    
+},{
+        "Campeon": "Ahri",
+        "Rol": "Midlaner",
+        "Counters":"Katarina",
+        "EasyMatchup":"Xerath",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Ahri.jpg",
+        "id":"2"    
+},{
+        "Campeon": "Akali",
+        "Rol": "Midlaner",
+        "Counters":"Morgana",
+        "EasyMatchup":"Irelia",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Akali.jpg",
+        "id":"3"    
+},{
+        "Campeon": "Alistar",
+        "Rol": "Support",
+        "Counters":"Galio",
+        "EasyMatchup":"Tahm kench",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Alistar.jpg",
+        "id":"4"    
+},{
+        "Campeon": "Amumu",
+        "Rol": "Jungla",
+        "Counters":"Sylas",
+        "EasyMatchup":"Dr. Mundo",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Amumu.jpg",
+        "id":"5"    
+},{
+        "Campeon": "Anivia",
+        "Rol": "Midlaner",
+        "Counters":"Brand",
+        "EasyMatchup":"Talon",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Anivia.jpg",
+        "id":"6"    
+},{
+        "Campeon": "Annie",
+        "Rol": "Midlaner",
+        "Counters":"Ziggs",
+        "EasyMatchup":"Ryze",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Annie.jpg",
+        "id":"7"    
+},{
+        "Campeon": "Aphelios",
+        "Rol": "Adc",
+        "Counters":"Sivir",
+        "EasyMatchup":"Kai'sa",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"8"    
+},{
+        "Campeon": "Ashe",
+        "Rol": "Adc",
+        "Counters":"Jhin",
+        "EasyMatchup":"Aphelios",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"9"    
+},{
+        "Campeon": "Aurelion Sol",
+        "Rol": "Midlaner",
+        "Counters":"Veigar",
+        "EasyMatchup":"Zoe",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"10"    
+},{
+        "Campeon": "Azir",
+        "Rol": "Midlaner",
+        "Counters":"Xerath",
+        "EasyMatchup":"Kassadin",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"11"    
+},{
+        "Campeon": "Bardo",
+        "Rol": "Support",
+        "Counters":"Yuumi",
+        "EasyMatchup":"Soraka",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"12"    
+},{
+        "Campeon": "Blitzcrank",
+        "Rol": "Support",
+        "Counters":"Zilean",
+        "EasyMatchup":"Sona",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"13"    
+},{
+        "Campeon": "Brand",
+        "Rol": "Support",
+        "Counters":"Galio",
+        "EasyMatchup":"Thresh",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"14"    
+},{
+        "Campeon": "Braum",
+        "Rol": "Support",
+        "Counters":"Sona",
+        "EasyMatchup":"Blitzcrank",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"15"    
+},{
+        "Campeon": "Caitlyn",
+        "Rol": "Adc",
+        "Counters":"kog'maw",
+        "EasyMatchup":"Kai'sa",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"16"    
+},{
+        "Campeon": "Camille",
+        "Rol": "Top",
+        "Counters":"Poppy",
+        "EasyMatchup":"Yone",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"17"    
+},{
+        "Campeon": "Cassiopeia",
+        "Rol": "Midlaner",
+        "Counters":"Annie",
+        "EasyMatchup":"Rumble",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"18"    
+},{
+        "Campeon": "Cho'Gath",
+        "Rol": "Top",
+        "Counters":"Wukong",
+        "EasyMatchup":"Poppy",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"19"    
+},{
+        "Campeon": "Corki",
+        "Rol": "Midlaner",
+        "Counters":"Jayce",
+        "EasyMatchup":"Brand",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"20"    
+},{
+        "Campeon": "Darius",
+        "Rol": "Top",
+        "Counters":"Kayle",
+        "EasyMatchup":"Yasuo",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"21"    
+},{
         "Campeon": "Diana",
         "Rol": "MidLaner",
         "Counters":"Cassiopeia",
         "EasyMatchup":"Gankplank",
-        "image":"",
-        "id":"1"    
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"22"    
+},{
+        "Campeon": "Dr. Mundo",
+        "Rol": "Jungla",
+        "Counters":"Nunu",
+        "EasyMatchup":"Nidalee",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"23"    
+},{
+        "Campeon": "Draven",
+        "Rol": "Adc",
+        "Counters":"Samira",
+        "EasyMatchup":"Kalista",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"24"    
+},{
+        "Campeon": "Ekko",
+        "Rol": "Mid",
+        "Counters":"Kayle",
+        "EasyMatchup":"Azir",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"25"    
+},{
+        "Campeon": "Elise",
+        "Rol": "Jungla",
+        "Counters":"Amumu",
+        "EasyMatchup":"Sylas",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"26"    
+},{
+        "Campeon": "Evelynn",
+        "Rol": "Jungla",
+        "Counters":"Amumu",
+        "EasyMatchup":"Sylas",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"27"    
+},{
+        "Campeon": "Ezreal",
+        "Rol": "Adc",
+        "Counters":"Jhin",
+        "EasyMatchup":"Xayah",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"28"    
+},{
+        "Campeon": "Fiddlesticks",
+        "Rol": "Jungla",
+        "Counters":"Amumu",
+        "EasyMatchup":"Kindred",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"29"    
+},{
+        "Campeon": "Fiora",
+        "Rol": "Top",
+        "Counters":"Malphite",
+        "EasyMatchup":"Irelia",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"30"    
+},{
+        "Campeon": "Fizz",
+        "Rol": "Midlaner",
+        "Counters":"Kayle",
+        "EasyMatchup":"Irelia",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"31"    
+},{
+        "Campeon": "Galio",
+        "Rol": "Midlaner",
+        "Counters":"Kayle",
+        "EasyMatchup":"Ryze",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"32"    
+},{
+        "Campeon": "Gankplank",
+        "Rol": "Top",
+        "Counters":"Quinn",
+        "EasyMatchup":"Ryze",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"33"    
+},{
+        "Campeon": "Garen",
+        "Rol": "Top",
+        "Counters":"Kayle",
+        "EasyMatchup":"Yasuo",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"34"    
+},{
+        "Campeon": "Gnar",
+        "Rol": "Top",
+        "Counters":"Malphite",
+        "EasyMatchup":"Ryze",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"35"    
+},{
+        "Campeon": "Gragas",
+        "Rol": "Jungla",
+        "Counters":"Rammus",
+        "EasyMatchup":"Lee sin",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"36"    
+},{
+        "Campeon": "Graves",
+        "Rol": "Jungla",
+        "Counters":"Hecarim",
+        "EasyMatchup":"Rengar",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"37"    
+},{
+        "Campeon": "Hecarim",
+        "Rol": "Jungla",
+        "Counters":"Udyr",
+        "EasyMatchup":"Gragas",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"38"    
+},{
+        "Campeon": "Heimerdinger",
+        "Rol": "Midlaner",
+        "Counters":"Neeko",
+        "EasyMatchup":"Azir",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"39"    
+},{
+        "Campeon": "Irelia",
+        "Rol": "Top",
+        "Counters":"Volibear",
+        "EasyMatchup":"Lucian",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"40"    
+},{
+        "Campeon": "Illaoi",
+        "Rol": "Top",
+        "Counters":"Quinn",
+        "EasyMatchup":"Rumble",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"41"    
+},{
+        "Campeon": "Ivern",
+        "Rol": "Jungla",
+        "Counters":"Rek'sai",
+        "EasyMatchup":"Kindred",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"42"    
+},{
+        "Campeon": "Janna",
+        "Rol": "Support",
+        "Counters":"Zyra",
+        "EasyMatchup":"Karma",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"43"    
+},{
+        "Campeon": "Jarvan IV",
+        "Rol": "Jungla",
+        "Counters":"Kayn",
+        "EasyMatchup":"Lee sin",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"44"    
+},{
+        "Campeon": "Jax",
+        "Rol": "Top",
+        "Counters":"Malphite",
+        "EasyMatchup":"Irelia",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"45"    
+},{
+        "Campeon": "Jayce",
+        "Rol": "Top",
+        "Counters":"Malphite",
+        "EasyMatchup":"Vladimir",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"46"    
+},{
+        "Campeon": "Jhin",
+        "Rol": "Adc",
+        "Counters":"Samira",
+        "EasyMatchup":"Aphelios",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"47"    
+},{
+        "Campeon": "Jinx",
+        "Rol": "Adc",
+        "Counters":"jhin",
+        "EasyMatchup":"Aphelios",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"48"    
+},{
+        "Campeon": "Kai'sa",
+        "Rol": "Adc",
+        "Counters":"Samira",
+        "EasyMatchup":"Ezreal",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"49"    
+},{
+        "Campeon": "Kalista",
+        "Rol": "Adc",
+        "Counters":"Kog'maw",
+        "EasyMatchup":"Ezreal",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"50"    
+},{
+        "Campeon": "Karma",
+        "Rol": "Support",
+        "Counters":"Sona",
+        "EasyMatchup":"Seraphine",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"51"    
+},{
+        "Campeon": "Karthus",
+        "Rol": "Jungla",
+        "Counters":"Shyvanna",
+        "EasyMatchup":"Nidalee",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"52"    
+},{
+        "Campeon": "Kassadin",
+        "Rol": "Midalaner",
+        "Counters":"Zed",
+        "EasyMatchup":"Syndra",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"53"    
+},{
+        "Campeon": "Katarina",
+        "Rol": "Midlaner",
+        "Counters":"Fizz",
+        "EasyMatchup":"Syndra",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"54"    
+},{
+        "Campeon": "Kayle",
+        "Rol": "Top",
+        "Counters":"Jax",
+        "EasyMatchup":"Gankplank",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"55"    
+},{
+        "Campeon": "Kayn",
+        "Rol": "Jungla",
+        "Counters":"Hecarim",
+        "EasyMatchup":"Nidalee",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"56"    
+},{
+        "Campeon": "Kennen",
+        "Rol": "Top",
+        "Counters":"Maokai",
+        "EasyMatchup":"Tryndamere",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"57"    
+},{
+        "Campeon": "Kha'zix",
+        "Rol": "Jungla",
+        "Counters":"",
+        "EasyMatchup":"",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"58"    
+},{
+        "Campeon": "Kindred",
+        "Rol": "Jungla",
+        "Counters":"Hecarim",
+        "EasyMatchup":"Lillia",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"59"    
+},{
+        "Campeon": "Kled",
+        "Rol": "Top",
+        "Counters":"Teemo",
+        "EasyMatchup":"Rumble",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"60"    
+},{
+        "Campeon": "kog'maw",
+        "Rol": "Adc",
+        "Counters":"Jhin",
+        "EasyMatchup":"Aphelios",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"61"    
+},{
+        "Campeon": "Le Blanc",
+        "Rol": "Midlaner",
+        "Counters":"Malzahar",
+        "EasyMatchup":"Irelia",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"62"    
+},{
+        "Campeon": "Lee sin",
+        "Rol": "Jungla",
+        "Counters":"Rek'sai",
+        "EasyMatchup":"Karthus",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"63"    
+},{
+        "Campeon": "Leona",
+        "Rol": "Support",
+        "Counters":"Morgana",
+        "EasyMatchup":"Yuumi",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"64"    
+},{
+        "Campeon": "Lillia",
+        "Rol": "Jungla",
+        "Counters":"Kha'zix",
+        "EasyMatchup":"Nidalee",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"65"    
+},{
+        "Campeon": "Lissandra",
+        "Rol": "Midlaner",
+        "Counters":"Vel'koz",
+        "EasyMatchup":"Ryze",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"66"    
+},{
+        "Campeon": "Lucian",
+        "Rol": "Adc",
+        "Counters":"Miss Fortune",
+        "EasyMatchup":"Twitch",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"67"    
+},{
+        "Campeon": "Lulu",
+        "Rol": "Support",
+        "Counters":"Leona",
+        "EasyMatchup":"Zira",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"68"    
+},{
+        "Campeon": "Lux",
+        "Rol": "Lux",
+        "Counters":"Ekko",
+        "EasyMatchup":"Anivia",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"69"    
+},{
+        "Campeon": "Malphite",
+        "Rol": "Top",
+        "Counters":"Cho'gath",
+        "EasyMatchup":"Tryndamere",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"70"    
+},{
+        "Campeon": "Malzahar",
+        "Rol": "Midlaner",
+        "Counters":"Diana",
+        "EasyMatchup":"Qiyana",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"71"    
+},{
+        "Campeon": "Maokai",
+        "Rol": "Top",
+        "Counters":"Shen",
+        "EasyMatchup":"Tryndamere",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"72"    
+},{
+        "Campeon": "Master yi",
+        "Rol": "Jungle",
+        "Counters":"Rammus",
+        "EasyMatchup":"Nidalee",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"73"    
+},{
+        "Campeon": "Miss Fortune",
+        "Rol": "Adc",
+        "Counters":"Jhin",
+        "EasyMatchup":"Aphelios",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"74"    
+},{
+        "Campeon": "Mordekaiser",
+        "Rol": "Top",
+        "Counters":"Jax",
+        "EasyMatchup":"Illaoi",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"75"    
+},{
+        "Campeon": "Morgana",
+        "Rol": "Support",
+        "Counters":"Vel'koz",
+        "EasyMatchup":"Rakan",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"76"    
+},{
+        "Campeon": "Nami",
+        "Rol": "Support",
+        "Counters":"Braum",
+        "EasyMatchup":"Soraka",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"77"    
+},{
+        "Campeon": "Nasus",
+        "Rol": "Top",
+        "Counters":"Temmo",
+        "EasyMatchup":"Irelia",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"78"    
+},{
+        "Campeon": "Nautilus",
+        "Rol": "Support",
+        "Counters":"Morgana",
+        "EasyMatchup":"Senna",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"79"    
+},{
+        "Campeon": "Neeko",
+        "Rol": "Mid",
+        "Counters":"Ekko",
+        "EasyMatchup":"Talon",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"80"    
+},{
+        "Campeon": "Nidalee",
+        "Rol": "Jungla",
+        "Counters":"Vi",
+        "EasyMatchup":"Lee sin",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"81"    
+},{
+        "Campeon": "Nocturne",
+        "Rol": "Jungla",
+        "Counters":"Zac",
+        "EasyMatchup":"Lillia",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"82"    
+},{
+        "Campeon": "Nunu",
+        "Rol": "Jungla",
+        "Counters":"Elise",
+        "EasyMatchup":"Gragas",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"83"    
+},{
+        "Campeon": "Olaf",
+        "Rol": "Jungla",
+        "Counters":"Master Yi",
+        "EasyMatchup":"Shyvanna",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"84"    
+},{
+        "Campeon": "Orianna",
+        "Rol": "Midlaner",
+        "Counters":"Morgana",
+        "EasyMatchup":"Kassadin",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"85"    
+},{
+        "Campeon": "Ornn",
+        "Rol": "Top",
+        "Counters":"Shen",
+        "EasyMatchup":"Tryndamere",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"86"    
+},{
+        "Campeon": "Pantheon",
+        "Rol": "Support",
+        "Counters":"Alistar",
+        "EasyMatchup":"Yuumi",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"87"    
+},{
+        "Campeon": "Poppy",
+        "Rol": "Top",
+        "Counters":"Teemo",
+        "EasyMatchup":"Jax",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"88"    
+},{
+        "Campeon": "Pyke",
+        "Rol": "Support",
+        "Counters":"Swain",
+        "EasyMatchup":"Karma",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"89"    
+},{
+        "Campeon": "Qiyana",
+        "Rol": "Midlaner",
+        "Counters":"Malzahar",
+        "EasyMatchup":"Azir",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"90"    
+},{
+        "Campeon": "Quinn",
+        "Rol": "Top",
+        "Counters":"Maokai",
+        "EasyMatchup":"Riven",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"91"    
+},{
+        "Campeon": "Rakan",
+        "Rol": "Support",
+        "Counters":"Zilean",
+        "EasyMatchup":"Braum",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"92"    
+},{
+        "Campeon": "Rammus",
+        "Rol": "Jungla",
+        "Counters":"Amumu",
+        "EasyMatchup":"Lee sin",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"93"    
+},{
+        "Campeon": "Rek'sai",
+        "Rol": "Jungla",
+        "Counters":"Elise",
+        "EasyMatchup":"Lee sin",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"94"    
+},{
+        "Campeon": "Renekton",
+        "Rol": "Top",
+        "Counters":"Quinn",
+        "EasyMatchup":"Irelia",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"95"    
+},{
+        "Campeon": "Rengar",
+        "Rol": "Jungla",
+        "Counters":"Master Yi",
+        "EasyMatchup":"Karthus",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"96"    
+},{
+        "Campeon": "Riven",
+        "Rol": "Top",
+        "Counters":"Poppy",
+        "EasyMatchup":"Sylas",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"97"    
+},{
+        "Campeon": "Rumble",
+        "Rol": "top",
+        "Counters":"Volibear",
+        "EasyMatchup":"Gankplank",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"98"    
+},{
+        "Campeon": "Ryze",
+        "Rol": "Mid",
+        "Counters":"Annie",
+        "EasyMatchup":"Kassadin",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"99"    
+},{
+        "Campeon": "Samira",
+        "Rol": "Adc",
+        "Counters":"Miss Fortune",
+        "EasyMatchup":"Aphelios",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"100"    
+},{
+        "Campeon": "Sejuani",
+        "Rol": "Jungla",
+        "Counters":"Kayn",
+        "EasyMatchup":"Nidalee",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"101"    
+},{
+        "Campeon": "Senna",
+        "Rol": "Support",
+        "Counters":"Zyra",
+        "EasyMatchup":"Taric",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"102"    
+},{
+        "Campeon": "Seraphine",
+        "Rol": "Support",
+        "Counters":"Xerath",
+        "EasyMatchup":"Rakan",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"103"    
+},{
+        "Campeon": "Sett",
+        "Rol": "Top",
+        "Counters":"Volibear",
+        "EasyMatchup":"Irelia",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"104"    
+},{
+        "Campeon": "Shaco",
+        "Rol": "Jungla",
+        "Counters":"Kayn",
+        "EasyMatchup":"Kindred",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"105"    
+},{
+        "Campeon": "Shen",
+        "Rol": "Top",
+        "Counters":"Mordekaiser",
+        "EasyMatchup":"Irelia",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"106"    
+},{
+        "Campeon": "Shyvana",
+        "Rol": "Jungla",
+        "Counters":"Kha'zix",
+        "EasyMatchup":"Lee sin",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"107"    
+},{
+        "Campeon": "Singed",
+        "Rol": "Top",
+        "Counters":"Teemo",
+        "EasyMatchup":"Yone",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"108"    
+},{
+        "Campeon": "Sion",
+        "Rol": "Top",
+        "Counters":"Mordekaiser",
+        "EasyMatchup":"Gankplank",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"109"    
+},{
+        "Campeon": "Sivir",
+        "Rol": "Adc",
+        "Counters":"Vayne",
+        "EasyMatchup":"Xayah",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"110"    
+},{
+        "Campeon": "Skarner",
+        "Rol": "Jungla",
+        "Counters":"Jarvan IV",
+        "EasyMatchup":"Lee sin",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"111"    
+},{
+        "Campeon": "Sona",
+        "Rol": "Support",
+        "Counters":"Leona",
+        "EasyMatchup":"Pyke",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"112"    
+},{
+        "Campeon": "Soraka",
+        "Rol": "Support",
+        "Counters":"Nami",
+        "EasyMatchup":"Rakan",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"113"    
+},{
+        "Campeon": "Swain",
+        "Rol": "Support",
+        "Counters":"Xerath",
+        "EasyMatchup":"Malphite",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"114"    
+},{
+        "Campeon": "Sylas",
+        "Rol": "Midlaner",
+        "Counters":"Galio",
+        "EasyMatchup":"Talon",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"115"    
+},{
+        "Campeon": "Syndra",
+        "Rol": "Midlaner",
+        "Counters":"Diana",
+        "EasyMatchup":"Lucian",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"116"    
+},{
+        "Campeon": "Tahm kench",
+        "Rol": "Support",
+        "Counters":"Zilean",
+        "EasyMatchup":"Braum",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"117"    
+},{
+        "Campeon": "Taliyah",
+        "Rol": "Jungla",
+        "Counters":"Warwick",
+        "EasyMatchup":"Lee sin",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"118"    
+},{
+        "Campeon": "Talon",
+        "Rol": "Midlaner",
+        "Counters":"Fizz",
+        "EasyMatchup":"Cassiopeia",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"119"    
+},{
+        "Campeon": "Taric",
+        "Rol": "Support",
+        "Counters":"Janna",
+        "EasyMatchup":"Yuumi",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"120"    
+},{
+        "Campeon": "Teemo",
+        "Rol": "Top",
+        "Counters":"Rumble",
+        "EasyMatchup":"Garen",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"121"    
+},{
+        "Campeon": "Thresh",
+        "Rol": "Support",
+        "Counters":"Morgana",
+        "EasyMatchup":"Senna",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"122"    
+},{
+        "Campeon": "Tristana",
+        "Rol": "Adc",
+        "Counters":"Samira",
+        "EasyMatchup":"Varus",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"123"    
+},{
+        "Campeon": "Trundle",
+        "Rol": "jungla",
+        "Counters":"Fiddlesticks",
+        "EasyMatchup":"Gragas",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"124"    
+},{
+        "Campeon": "Tryndamere",
+        "Rol": "Top",
+        "Counters":"Urgot",
+        "EasyMatchup":"Irelia",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"125"    
+},{
+        "Campeon": "Twisted Fate",
+        "Rol": "Midlaner",
+        "Counters":"Diana",
+        "EasyMatchup":"Orianna",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"126"    
+},{
+        "Campeon": "Twitch",
+        "Rol": "Adc",
+        "Counters":"Samira",
+        "EasyMatchup":"Aphelios",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"127"    
+},{
+        "Campeon": "Udyr",
+        "Rol": "Jungla",
+        "Counters":"Rammus",
+        "EasyMatchup":"Lillia",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"128"    
+},{
+        "Campeon": "Urgot",
+        "Rol": "Top",
+        "Counters":"Wukong",
+        "EasyMatchup":"Tryndamere",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"129"    
+},{
+        "Campeon": "Varus",
+        "Rol": "Adc",
+        "Counters":"Tristana",
+        "EasyMatchup":"Sivir",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"130"    
+},{
+        "Campeon": "Vayne",
+        "Rol": "Adc",
+        "Counters":"Jhin",
+        "EasyMatchup":"Kalista",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"131"    
+},{
+        "Campeon": "Veigar",
+        "Rol": "Midlaner",
+        "Counters":"Ekko",
+        "EasyMatchup":"Irelia",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"132"    
+},{
+        "Campeon": "Vel´koz",
+        "Rol": "Support",
+        "Counters":"Zyra",
+        "EasyMatchup":"Seraphine",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"133"    
+},{
+        "Campeon": "Vi",
+        "Rol": "Jungla",
+        "Counters":"Elise",
+        "EasyMatchup":"Lillia",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"134"    
+},{
+        "Campeon": "Viktor",
+        "Rol": "Midlaner",
+        "Counters":"Xerath",
+        "EasyMatchup":"Irelia",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"135"    
+},{
+        "Campeon": "Vladimir",
+        "Rol": "Midlaner",
+        "Counters":"Seraphine",
+        "EasyMatchup":"Lucian",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"136"    
+},{
+        "Campeon": "Volibear",
+        "Rol": "Top",
+        "Counters":"Shen",
+        "EasyMatchup":"Riven",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"137"    
+},{
+        "Campeon": "Warwick",
+        "Rol": "Jungla",
+        "Counters":"Sejuani",
+        "EasyMatchup":"Nidalee",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"138"    
+},{
+        "Campeon": "Wukong",
+        "Rol": "Top",
+        "Counters":"Malphite",
+        "EasyMatchup":"Yasuo",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"139"    
+},{
+        "Campeon": "Xayah",
+        "Rol": "Adc",
+        "Counters":"Jhin",
+        "EasyMatchup":"Aphelios",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"140"    
+},{
+        "Campeon": "Xerath",
+        "Rol": "Support",
+        "Counters":"Leona",
+        "EasyMatchup":"Seraphine",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"141"    
+},{
+        "Campeon": "Xin zao",
+        "Rol": "Jungla",
+        "Counters":"Volibear",
+        "EasyMatchup":"Gragas",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"142"    
+},{
+        "Campeon": "Yasuo",
+        "Rol": "Midlaner",
+        "Counters":"Annie",
+        "EasyMatchup":"Ryze",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"143"    
+},{
+        "Campeon": "Yone",
+        "Rol": "Midlaner",
+        "Counters":"Fizz",
+        "EasyMatchup":"Kassadin",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"144"    
+},{
+        "Campeon": "Yorick",
+        "Rol": "Top",
+        "Counters":"Shen",
+        "EasyMatchup":"Darius",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"145"    
+},{
+        "Campeon": "Yuumi",
+        "Rol": "Support",
+        "Counters":"Nautilus",
+        "EasyMatchup":"Karma",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"146"    
+},{
+        "Campeon": "Zac",
+        "Rol": "Jungla",
+        "Counters":"Kayn",
+        "EasyMatchup":"Lee sin",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"147"    
+},{
+        "Campeon": "Zed",
+        "Rol": "Midlaner",
+        "Counters":"Cassiopeia",
+        "EasyMatchup":"Kassadin",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"148"    
+},{
+        "Campeon": "Ziggs",
+        "Rol": "Midlaner",
+        "Counters":"Viktor",
+        "EasyMatchup":"Anivia",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"149"    
+},{
+        "Campeon": "Zilean",
+        "Rol": "Support",
+        "Counters":"Xerath",
+        "EasyMatchup":"Braum",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"150"    
+},{
+        "Campeon": "Zoe",
+        "Rol": "Midlaner",
+        "Counters":"Morgana",
+        "EasyMatchup":"Qiyana",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"151"    
+},{
+        "Campeon": "Zyra",
+        "Rol": "Support",
+        "Counters":"Maokai",
+        "EasyMatchup":"Senna",
+        "image":"https://cdn.op.lol/v/10.23.1/img/championtiles/Aphelios.jpg",
+        "id":"152"    
 }]
